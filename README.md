@@ -39,7 +39,7 @@ To train the models:
 python train_unet.py
 ```
 
-This will train six different models:
+This will train different models:
 - baseline models (one with each loss function)
 - ablation models with reduced depth
 
